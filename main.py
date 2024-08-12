@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 import asyncio
 
-TOKEN = 'MTI3MjU3Mzc2Mjc4ODkxNzQyMg.G4FIne.l3VBTEHJNQ334pkLO4fXxCp0xfOvQyK4S5qjx4'  # Replace with your actual bot token
+TOKEN = 'TOKEN'  # Replace with your actual bot token
 TIMEZONE_API_URL = 'http://worldtimeapi.org/api/timezone/Asia/Colombo'
 
 intents = discord.Intents.default()
